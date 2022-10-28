@@ -49,10 +49,10 @@ Para clonar e executar esta aplicação, você precisará do [Git](https://git-s
 
 ```bash
 # Clonar este repositório
-$ git clone https://github.com/Fellippemfv/rocketseat-react-project-4.git
+$ git clone https://github.com/Fellippemfv/rocketseat-react-project-5.git
 
 # Ir até a pasta criada
-$ cd rocketseat-react-project-4
+$ cd rocketseat-react-project-5
 
 # Instalar dependências
 $ npm install
