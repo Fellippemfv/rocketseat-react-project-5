@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto 05 - Design System </h1>
 
-<p align="center">
+<p align="center"> 
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Fellippemfv/rocketseat-react-project-5">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fellippemfv/rocketseat-react-project-5?color=red">
