@@ -22,8 +22,8 @@ jobs:
       - run: npm ci
 
       - run: npm run build
-         env:
-          TURBO_TOKEN: HkCr8nqtyExE0QgLtgoICt9w
+        env:
+          TURBO_TOKEN: fKCGXNBcZharvinysR2sOl55
           TURBO_TEAM: amazon-dev
 
       - name: Deploy storybook
